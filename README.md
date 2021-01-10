@@ -16,7 +16,9 @@
 ### Hello, I'm donguk Lee!
 
 Good day!
+
 I am a UI designer from South Korea 🇰🇷. I am interested in Interactive design and Responsive web and Branding. I love exercising(machine) and communicating!
+
 If you want to contact me, please leave me a message!
 
 <br/>
