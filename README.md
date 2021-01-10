@@ -20,9 +20,11 @@ I am a UI designer from South Korea 🇰🇷. I am interested in Interactive des
 If you want to contact me, please leave me a message!
 
 <br/>
+
 ### 🎠 Experience
-- **Kimsindustry** - Intern, UI designer *(Nov 2020 ~)*
-- **GreenComputerAcademy** - Completion of Smart Web Content Creation *(Sep 2019 - Feb 2020)*
+
+- **Kimsindustry** - Intern, UI designer _(Nov 2020 ~)_
+- **GreenComputerAcademy** - Completion of Smart Web Content Creation _(Sep 2019 - Feb 2020)_
 
 <br/>
 
