@@ -25,7 +25,8 @@ If you want to contact me, please leave me a message!
 
 ### 🎠 Experience
 
-- **Kimsindustry** - Intern, UI designer _(Nov 2020 ~)_
+- **EightP** - Intern, Editorial designer _(Mar 2021 ~  May 2021)_
+- **Kimsindustry** - Intern, UI designer _(Nov 2020 ~  Feb 2021)_
 - **GreenComputerAcademy** - Completion of Smart Web Content Creation _(Sep 2019 - Feb 2020)_
 
 <br/>
